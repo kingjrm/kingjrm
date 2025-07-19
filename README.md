@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jerome</h1>
+<h1 align="center">Hi 👋, I'm King Jerome</h1>
 
 <p align="center">
   <img src="https://castillejacounterpoint.com/wp-content/uploads/2022/04/SVgTSjtHjAglhyvmDTksZtRTIlGTIhMOFq9WyiO5.gif" width="300" alt="UI/UX Meme" />
