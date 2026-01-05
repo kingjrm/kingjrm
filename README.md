@@ -18,6 +18,13 @@
   📍 Philippines &nbsp;•&nbsp; 💻 Open to Internships & Projects
 </p>
 
+<p align="center">
+  🌐 <strong>Portfolio:</strong> 
+  <a href="https://jeromeportfolio.onrender.com" target="_blank">
+    jeromeportfolio.onrender.com
+  </a>
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -26,6 +33,7 @@
 - 🔭 Currently working on my **Capstone Project**
 - 🌱 Learning **modern frameworks, design systems, and advanced UI/UX techniques**
 - 🎨 Passionate about **design systems, usability, and responsive interfaces**
+- 🌐 Portfolio: **https://jeromeportfolio.onrender.com**
 - 📬 Email: **lacernakingjeromep@gmail.com**
 
 ---
@@ -38,6 +46,9 @@
   </a>
   <a href="https://instagram.com/jinwome" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://jeromeportfolio.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
@@ -66,7 +77,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=kingjrm&theme=radical" 
+    src="https://streak-stats.demolab.com?user=kingjrm&theme=radical"
     alt="GitHub Streak Stats"
   />
 </p>
